@@ -13,21 +13,44 @@
 //     println!("{}", _y);
 // }
 
-fn main() {
-    // adição
-    let soma = 5 + 10;
+// fn main() {
+//     // adição
+//     let soma = 5 + 10;
 
-    // subtração
-    let diferenca = 95.5 - 4.3;
+//     // subtração
+//     let diferenca = 95.5 - 4.3;
 
-    // multiplicação
-    let produto = 4 * 30;
+//     // multiplicação
+//     let produto = 4 * 30;
 
-    // divisão
-    let quociente = 56.7 / 32.2;
+//     // divisão
+//     let quociente = 56.7 / 32.2;
 
-    // resto
-    let resto = 43 % 5;
+//     // resto
+//     let resto = 43 % 5;
 
-    println!(" O valor das variáveis são: \n {soma} \n {diferenca} \n {produto} \n {quociente} \n {resto}")
-}
+//     println!(" O valor das variáveis são: \n {soma} \n {diferenca} \n {produto} \n {quociente} \n {resto}")
+// }
+
+// booleano
+
+// fn main() {
+//     let t = true;
+
+//     let f: bool = false; // com tipo explícito
+// }
+
+// letras (char)
+
+// fn main() {
+//     let c = 'z';
+//     let z = 'ℤ';
+//     let heart_eyed_cat = '😻';
+// }
+
+// fn main() {
+//     println!("\u{2728}");
+// }
+
+// Tipos compostos
+
